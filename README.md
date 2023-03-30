@@ -19,7 +19,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] Navbar Setup
   - [ ] check Scroll bar functionality
 - [x] Billboard Component, Random Movie Endpoint
-- [ ] Movie List and Movie Cards Components
+- [x] Movie List and Movie Cards Components
 - [ ] Favorites My list components
 - [ ] Play button video Player, Single Movie Endpoint
 - [ ] Info Modal Component
