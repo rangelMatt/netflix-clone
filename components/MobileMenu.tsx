@@ -46,7 +46,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ visible }) => {
           className="px-3 text-center text-white hover:underl
   "
         >
-          Brows by Languages
+          Browse by Languages
         </div>
       </div>
     </div>
