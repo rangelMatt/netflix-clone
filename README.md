@@ -17,6 +17,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] Google and Github OAuth
 - [x] Protecting Routes and Profile Screen
 - [x] Navbar Setup
+  - [ ] check Scroll bar functionality
 - [ ] Billboard Component, Random Movie Endpoint
 - [ ] Movie List and Movie Cards Components
 - [ ] Favorites My list components
