@@ -9,6 +9,22 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Todo
+
+- [x] Environment Setup
+- [x] Auth Screen Setup
+- [x] NextAuth, Prisma, Mongo Setup
+- [x] Google and Github OAuth
+- [x] Protecting Routes and Profile Screen
+- [x] Navbar Setup
+  - [ ] check Scroll bar functionality
+- [ ] Billboard Component, Random Movie Endpoint
+- [ ] Movie List and Movie Cards Components
+- [ ] Favorites My list components
+- [ ] Play button video Player, Single Movie Endpoint
+- [ ] Info Modal Component
+- [ ] Vercel Deployment
+
 ## Getting Started
 
 First, run the development server:
