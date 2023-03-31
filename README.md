@@ -22,7 +22,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] Movie List and Movie Cards Components
 - [x] Favorites My list components
 - [x] Play button video Player, Single Movie Endpoint
-- [ ] Info Modal Component
+- [x] Info Modal Component
 - [ ] Vercel Deployment
 
 ## Getting Started
