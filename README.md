@@ -20,7 +20,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   - [ ] check Scroll bar functionality
 - [x] Billboard Component, Random Movie Endpoint
 - [x] Movie List and Movie Cards Components
-- [ ] Favorites My list components
+- [x] Favorites My list components
 - [ ] Play button video Player, Single Movie Endpoint
 - [ ] Info Modal Component
 - [ ] Vercel Deployment
